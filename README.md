@@ -1,1 +1,1 @@
-# Zhutovsky-2019-JAD
+Code for Zhutovsky, et al. ‘Individual Prediction of Behavioral Variant Frontotemporal Dementia Development Using Multivariate Pattern Analysis of Magnetic Resonance Imaging Data’. 1 Jan. 2019 : 1229 – 1241. https://doi.org/10.3233/JAD-181004
